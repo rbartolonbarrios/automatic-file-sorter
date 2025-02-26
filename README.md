@@ -29,6 +29,7 @@ This Python script **automatically organizes files** in a specified folder by so
 
 ### After Running the Script  
 /Automatic Sorter
+
   /CSV Files
     - document.csv
   /Image Files
