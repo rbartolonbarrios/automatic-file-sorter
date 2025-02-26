@@ -20,30 +20,25 @@ This Python script **automatically organizes files** in a specified folder by so
 ## 📂 Example  
 
 ### Before Running the Script  
-/Automatic Sorter
-  - document.csv
-  - image.png
-  - script.py
-  - notes.txt
-  - data.tsv
+    /Automatic Sorter
+      - document.csv
+      - image.png
+      - script.py
+      - notes.txt
+      - data.tsv
 
 ### After Running the Script  
-/Automatic Sorter
-
-    /CSV Files
-    - document.csv
-    
-    /Image Files
-    - image.png
-    
-    /Python Files
-    - script.py
-    
-    /Text Files
-    - notes.txt
-    
-    /TSV Files
-    - data.tsv
+    /Automatic Sorter
+      /CSV Files
+      - document.csv
+      /Image Files
+      - image.png
+      /Python Files
+      - script.py
+      /Text Files
+      - notes.txt
+      /TSV Files
+      - data.tsv
 
 ---
 
